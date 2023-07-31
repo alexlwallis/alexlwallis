@@ -4,4 +4,4 @@
 - 🌱 I’m currently studying part-time for my M.S. in Software Engineering at Carnegie Mellon
 - 📫 Reach me at awallis@cs.cmu.edu or aldwallis@gmail.com
 
-#[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlwallis)](https://github.com/anuraghazra/github-readme-stats)
+#[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlwallis)](https://github.com/anuraghazra/github-readme-stats)
